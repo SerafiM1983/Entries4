@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Табель</string>
+    <string name="delivery">Развоз</string>
+    <string name="tasks">Задания</string>
+</resources>
