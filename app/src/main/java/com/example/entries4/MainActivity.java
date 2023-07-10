@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        // comit
+
         binding.barMain.actionBarHome.setVisibility(View.GONE);
     }
 }
