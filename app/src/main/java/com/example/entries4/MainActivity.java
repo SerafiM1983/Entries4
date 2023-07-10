@@ -24,5 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "enter fab", Toast.LENGTH_SHORT).show();
             }
         });
+
+        binding.barMain.actionBarHome.setVisibility(View.GONE);
     }
 }
